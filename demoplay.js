@@ -3,7 +3,7 @@
 //javascript:(function(){var script=document.createElement('script');script.src='http://localhost/play.js';document.getElementsByTagName('head')[0].appendChild(script);})();
 
 
-javascript:alert("At Your Service, Master!");
+javascript:alert("At Your Service, Boss!");
 
 //the process resembles gold mining - pick some dirt (content) and sift through it for stuff you need
 //take a bucket of content - a container that hosts all of our desired content as its child items
